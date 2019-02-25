@@ -10,6 +10,7 @@ The modifications made to the Project Gutenberg HTML files were removal of styli
 
 My stylesheet provides styling for headers, paragraphs, images, and image captions, and is generic enough for any Project Gutenberg HTML file.
 
+Note: the textured paper image was taken from https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_1280.jpg and is valid for reuse.
 
 Assignment: CSS Hell
 ====================
