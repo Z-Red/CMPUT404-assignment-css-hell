@@ -17,7 +17,7 @@
 /* Add some "old text" type styling */
 body {
   /* Image taken from: https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_1280.jpg */
-  background-image: url("paper-texture-1.jpg");
+  background-image: url("images/paper-texture-1.jpg");
   background-size: 100%;
   margin-right: 15%;
   margin-left: 15%;
