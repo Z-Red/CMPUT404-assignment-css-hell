@@ -13,5 +13,83 @@
 */
 
 body {
+  background: black;
+  color: yellow;
+  font-family: "Comic Sans MS";
+  background-image: url("https://www.publicdomainpictures.net/pictures/70000/nahled/stars-in-the-night-sky.jpg");
+  background-repeat: repeat;
+}
 
+#cover {
+  height: 100px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#cover-header {
+  text-align: right;
+  padding-bottom: 60px;
+  margin-bottom: 200px;
+  color: pink;
+  transform: rotate(-15deg);
+  padding-right: 100px;
+  padding-top: 100px;
+}
+
+#nav {
+  width:75%;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #565A68;
+  background: red;
+}
+
+#nav a {
+  display:inline-block;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: white;
+}
+
+#main {
+  width:75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -30px;
+  overflow: auto;
+  color: pink;
+}
+
+#main-img {
+  height: 250px;
+  width: 75%;
+}
+
+h3 {
+  color: blue;
+}
+
+#experience{
+  width:75%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+#history {
+  padding-left: 20px;
+  padding-top: 20px;
+  width: 600px;
+  float: left;
+  color: pink;
+}
+
+#skills {
+  padding-right: 50px;
+  padding-top: 20px;
+  float: right;
+  width: 215px;
+  height: 395px;
 }
