@@ -6,7 +6,7 @@ Books:
   2. [Oliver Twist by Charles Dickens](http://www.gutenberg.org/ebooks/730)
   3. [Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau](http://www.gutenberg.org/ebooks/205)
 
-The modifications made to the Project Gutenberg HTML files were removal of styling that would overlap the styling in my file, as well as the inclusion of a link tag to link my stylesheet.
+The modifications made to the Project Gutenberg HTML files were removal of styling that would overlap the styling in my file, as well as the inclusion of a link tag to link my stylesheet. Additionally, I added a figcaption tag under the book cover image for book number 3, simply stating that the picture was of the cover. There was no captions for the images in this file so I just added something instead (albeit uninteresting).
 
 My stylesheet provides styling for headers, paragraphs, images, and image captions, and is generic enough for any Project Gutenberg HTML file.
 

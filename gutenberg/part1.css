@@ -40,4 +40,5 @@ img {
 /* Style image captions */
 figcaption {
   font-style: italic;
+  text-align: center;
 }
